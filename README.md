@@ -2,14 +2,6 @@
 
 Create a real-time weather dashboard using Ballerina that displays weather information for different cities. The dashboard will allow users to search for a city and view its current weather conditions and forecast. To achieve this, you'll integrate with a weather API to fetch the necessary data.
 
-Features:
-
-// This code displays the current weather information for a given city.
-// It also updates the dashboard when the weather data changes.
-// The user can set their preferences, such as the temperature unit and the default city.
-
-
-
 - City Search: Users should be able to enter the name of a city in a search box and get the current weather information for that city.
 - Weather Details: Display relevant weather details, such as temperature, humidity, wind speed, weather description, etc., for the selected city.
 - Forecast: Show a 5-day weather forecast for the chosen city, including high and low temperatures for each day.
