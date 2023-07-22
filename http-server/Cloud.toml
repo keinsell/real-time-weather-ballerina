@@ -1,0 +1,7 @@
+[container.image]
+repository="keinsell"
+name="http-server"
+tag="v0.1.0"
+
+[settings]
+buildImage=true 
